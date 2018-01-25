@@ -5,11 +5,11 @@ All statements starts as "Code A" in this file
 ********************/
 
 x. Code Uno
-2. Code A
-3. Code Uno
+2. Code Prime
+3. Code Prime
 4. Code A
-5. Code Uno
+5. Code Prime
 6. Code A
-7. Code A
+7. Code Prime
 8. Code A
 9. Code A
