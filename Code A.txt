@@ -1,4 +1,4 @@
-Version 1.1 Uno
+Version 1.2 Duo
 /********************
 Just to simulate content in a programming source code
 All statements starts as "Code A" in this file
@@ -6,10 +6,10 @@ All statements starts as "Code A" in this file
 
 X. Code Duo
 X. Code Duo
-X. Code Duo
+3. Code Prime
 4. Code A
-X. Code Duo
+5. Code Prime
 6. Code A
-7. Code A
+7. Code Prime
 X. Code Duo
 9. Code A
